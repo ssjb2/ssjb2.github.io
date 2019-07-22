@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build"
   },
   "proxy": "http://localhost:8080",
-  "homepage": "https://ssjb2.github.io/",
+  "homepage": "https://ssjb2.github.io/ssjb2.github.io",
   "eslintConfig": {
     "extends": "react-app"
   },
