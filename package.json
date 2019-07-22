@@ -6,6 +6,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.0.1",
     "jwt-decode": "^2.2.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
@@ -20,10 +21,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-	"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "proxy": "http://localhost:8080",
-  "homepage" : "https://github.com/ssjb2/Project-Spring-React/tree/master/react-client",
+  "homepage": "https://ssjb2.github.io/",
   "eslintConfig": {
     "extends": "react-app"
   },
