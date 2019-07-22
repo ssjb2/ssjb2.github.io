@@ -1,7 +1,7 @@
 {
   "name": "react-client",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build"
   },
   "proxy": "http://localhost:8080",
-  "homepage": "https://ssjb2.github.io/ssjb2.github.io",
+  "homepage": "https://ssjb2.github.io/",
   "eslintConfig": {
     "extends": "react-app"
   },
